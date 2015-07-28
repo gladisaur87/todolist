@@ -1,0 +1,23 @@
+{
+  "name": "@chaseadamsio/audaciousaretes.github.io",
+  "version": "1.0.0",
+  "description": "Audacious Aretes class project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audaciousaretes/audaciousaretes.github.io.git"
+  },
+  "author": "Chase Adams <chaseadamsio.bcn@gmail.com> (http://chaseadams.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/audaciousaretes/audaciousaretes.github.io/issues"
+  },
+  "homepage": "https://github.com/audaciousaretes/audaciousaretes.github.io#readme",
+  "dependencies": {
+    "hapi": "^8.8.0"
+  }
+}
