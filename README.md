@@ -15,7 +15,7 @@ This is a development server that serves static assets. Running `npm start` in t
 
 **The installation instructions are a _one time_ run set of instructions.**
 
-First, go to the [audaciousaretes/audaciousaretes.github.io repository](https://github.com/audaciousaretes/audaciousaretes.github.io) and click the `Fork` button in the top right corner. This will create a new fork of the project in your repositories.
+First, go to the [https://github.com/chaseadamsio/todolist](https://github.com/chaseadamsio/todolist) and click the `Fork` button in the top right corner. This will create a new fork of the project in your repositories.
 
 Next, clone your repository into your workspace (mine is `~/workspace`) by running (make sure to replace `<YOUR USERNAME>` with your username:
 
